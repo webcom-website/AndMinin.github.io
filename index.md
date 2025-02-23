@@ -1,15 +1,9 @@
 ---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
 layout: home
-title: Bienvenido a mi perfil
 ---
-
-🚀 **Sobre mí**
-Coordinadora de Software | Analista Sr & Arquitecta de Soluciones. Experiencia en liderazgo estratégico, gestión de equipos y arquitectura de software.
-
-📌 **Habilidades**
-- Gestión de proyectos tecnológicos
-- Definición de productos en sectores de juegos, alimentación y comercio
-- Infraestructura sobre Linux, Docker y Nginx
-
-💡 **Más información**
-Explora mis repositorios y proyectos en [GitHub](https://github.com/AndMinin).

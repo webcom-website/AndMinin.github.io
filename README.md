@@ -20,7 +20,7 @@ Soy una profesional apasionada por la tecnología y la gestión de proyectos, co
 ✔ **Gestión de proyectos:** planificación, documentación, optimización de procesos, asignación de tareas.  
 ✔ **Arquitectura de software:** diseño de estructuras escalables y eficientes.  
 ✔ **Infraestructura:** administración de servidores Linux, Docker/Nginx.  
-✔ **Desarrollo:** experiencia en entornos fullstack y DevOps.  
+✔ **Desarrollo:** experiencia en entornos fullstack y DevOps.
 
 ---
 

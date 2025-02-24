@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Del Desarrollo a la Estrategia: Mi Evolución
+title: Del Desarrollo a la Estrategia >> Mi Evolución
 permalink: /about/
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Del Desarrollo a la Estrategia: Mi Evolución
 permalink: /about/
 ---
 
-# ✨ [Andre Minin]
+# ✨ Andre Minin
 
 **Coordinadora de Software | Analista Sr & Arquitecta de Soluciones**  
 
